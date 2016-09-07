@@ -6,6 +6,10 @@
 
 3. On Click Listview item .. see news details
 
+4.  Progaurd enabled for Signed APK
+
+
+
 ![alt tag](https://github.com/iamvijayakumar/HNNews/blob/master/device-2016-09-07-161901.png)
 ![alt tag](https://github.com/iamvijayakumar/HNNews/blob/master/device-2016-09-07-161918.png)
 
