@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HNNews</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="string_internet_connection_not_available">Internet Connection Not Available</string>
+
+</resources>
